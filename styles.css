@@ -196,7 +196,8 @@ section {
 @media screen and (max-width: 768px) {
 
 	nav h1 {
-		margin-left: 30px;
+		margin-left: 15px;
+		font-size: 30px;
 	}
 
 	.navLinks {
@@ -245,11 +246,15 @@ section {
 	}
 
 	.join input[type="text"] {
-		padding: 5px 12px;
+		padding: 5px 10px;
+		outline: none;
+		border: none;
 	}
 
 	.join input[type="submit"]  {
-		padding: 5px 12px;
+		padding: 5px 10px;
+		outline: none;
+		border: none; 
 
 	}
 
